@@ -23,7 +23,7 @@
     "object-assign-deep": "0.0.4",
     "pad-component": "0.0.1",
     "pify": "^2.3.0",
-    "postcss": "^5.2.17",
+    "postcss": "^8.4.31",
     "postcss-apply": "^0.6.1",
     "postcss-autoreset": "^1.2.0",
     "postcss-bem-linter": "^2.3.0",
